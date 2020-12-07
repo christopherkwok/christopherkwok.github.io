@@ -2,6 +2,8 @@
 
 Hi, my name is Christopher Kwok and I am currently a recent graduate of UC San Diego's economics program. My interest in becoming a business data analyst grows out of finding new ways to acquire and display data. I am constantly seeking to prove the importance of displaying data both accurately and effectively.
 
+# [My Resume](Business_Analytics_Resume.pdf)
+
 # Personal Data Projects 
 
 ## Youtube Reporting API 
