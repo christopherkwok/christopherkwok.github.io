@@ -1,6 +1,8 @@
 # Christopher Kwok's Personal Website 
 
-Hi, my name is Christopher Kwok and I am a recent graduate of UC San Diego's economics program and am currently pursuing a certificate in Business Intelligence Analytics. My interest in becoming a business data analyst grows out of finding new ways to acquire and display data. I am constantly seeking to prove the importance of displaying data both accurately and effectively.
+Hi, my name is Christopher Kwok and I am a recent graduate of UC San Diego's economics program and am currently pursuing a certificate in Business Intelligence Analytics.
+
+<p> A Business Data Analyst's knowledge in different softwares and data concepts is crucial to conduct their analysis. However, I also believe that the ability to tell a narrative accurately representing the data and communicate these insights to key people, whether management of various departments or shareholders, is equally as important. Without the ability to communicate the significance of the data from your audience' perspective, the real significance of the data becomes lost. I believe my past experiences working with dancers, videographers, in the finance industry, in the marketing industry, and with people of all different cultures and backgrounds provides me with an ability to communicate with and understand the people I try and reach with my data.  </p>
 
 # [My Resume](Business_Analytics_Resume.pdf)
 
