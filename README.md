@@ -1,4 +1,4 @@
-# Christopher Kwok's Personal Website 
+# Christopher Kwok's Personal Portfolio 
 
 Hi, my name is Christopher Kwok and I am a recent graduate of UC San Diego's economics program and am currently pursuing a certificate in Business Intelligence Analytics. My interest in becoming a business data analyst grows out of finding new ways to acquire and display data. I am constantly seeking to prove the importance of displaying data both accurately and effectively.
 
