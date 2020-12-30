@@ -20,6 +20,6 @@ This project utlizes a common employees dataset to practice querying data within
 
 In this series, I take part in Tableau's Makeover Monday challenge, where people redesign visualizations to improve them and show new ways of displaying data in Tableau. 
 
-  [Week 42 - 2020](https://public.tableau.com/shared/S4CGYH8NT?:display_count=y&:origin=viz_share_link)  
+  [Week 42 - 2020](https://public.tableau.com/views/MakeoverMonday42/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)  
   [Week 49 - 2020](https://public.tableau.com/views/German-AmericanRelationshipPolling/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)   
   [Week 50 - 2020](https://public.tableau.com/profile/christopher.kwok#!/vizhome/BobRossVisualization/Dashboard1) 
