@@ -18,7 +18,7 @@ This project utlizes a common employees dataset to practice querying data within
 
 # Tableau Projects 
 
-## Udemy Audiobook Dashboard (https://public.tableau.com/profile/christopher.kwok#!/vizhome/AudiobookSalesReviews_16105216922850/Dashboard1?publish=yes)
+## Udemy Audiobook Dashboard(https://public.tableau.com/profile/christopher.kwok#!/vizhome/AudiobookSalesReviews_16105216922850/Dashboard1?publish=yes)
 
 ## Makeover Monday
 
