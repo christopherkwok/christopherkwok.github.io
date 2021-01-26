@@ -20,6 +20,8 @@ This project utlizes a common employees dataset to practice querying data within
   
 ## [Udemy Audiobook Dashboard](https://public.tableau.com/profile/christopher.kwok#!/vizhome/AudiobookSalesReviews_16105216922850/Dashboard1?publish=yes)
   
+## [Udemy Employee Dashboard](https://public.tableau.com/profile/christopher.kwok#!/vizhome/Udemy-CombiningSQLandTableauProblems/Dashboard1)
+  
 ## Makeover Monday
   
 In this series, I take part in Tableau's Makeover Monday challenge, where people redesign visualizations to improve them and show new ways of displaying data in Tableau.
