@@ -7,7 +7,6 @@ Hi, my name is Christopher Kwok and I am a data analyst currently looking for a 
 # [My Resume](ChristopherKwok_resume.pdf) | [My LinkedIn](https://www.linkedin.com/in/cckwok/)
    
 &nbsp;  
-&nbsp;  
    
 # Python Projects
     
@@ -15,7 +14,6 @@ Hi, my name is Christopher Kwok and I am a data analyst currently looking for a 
     
 In this project, I scraped data from an online book catalog using the BeautifulSoup package and transformed it into a dataset ready for analysis. 
    
-&nbsp;  
 &nbsp;  
    
 # Tableau Projects
@@ -32,7 +30,6 @@ In this series, I take part in Tableau's Makeover Monday challenge, where people
   [Week 49 - 2020](https://public.tableau.com/profile/christopher.kwok#!/vizhome/German-AmericanRelationshipPolling/Dashboard1)   
   [Week 50 - 2020](https://public.tableau.com/profile/christopher.kwok#!/vizhome/BobRossVisualization/Dashboard1) 
    
-&nbsp;  
 &nbsp;  
 
 # [Student Coursework](https://github.com/christopherkwok/SQL_coursework)
