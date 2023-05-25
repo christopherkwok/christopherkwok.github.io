@@ -10,26 +10,26 @@ Hi, my name is Christopher Kwok and I am a data analyst currently looking for a 
    
 # Python Projects
     
-## [Beautiful Soup Web Scraping](https://github.com/christopherkwok/Python-Projects/blob/main/BeautifulSoup-Final.ipynb)
+### [Beautiful Soup Web Scraping](https://github.com/christopherkwok/Python-Projects/blob/main/BeautifulSoup-Final.ipynb)
     
 In this project, I scraped data from an online book catalog using the BeautifulSoup package and transformed it into a dataset ready for analysis. 
-   
+
 &nbsp;  
-   
+
 # Tableau Projects
   
-## [Udemy Audiobook Dashboard](https://public.tableau.com/profile/christopher.kwok#!/vizhome/AudiobookSalesReviews_16105216922850/Dashboard1?publish=yes)
+### [Udemy Audiobook Dashboard](https://public.tableau.com/profile/christopher.kwok#!/vizhome/AudiobookSalesReviews_16105216922850/Dashboard1?publish=yes)
   
-## [Udemy Employee Dashboard](https://public.tableau.com/profile/christopher.kwok#!/vizhome/Udemy-CombiningSQLandTableauProblems/Dashboard1)
+### [Udemy Employee Dashboard](https://public.tableau.com/profile/christopher.kwok#!/vizhome/Udemy-CombiningSQLandTableauProblems/Dashboard1)
   
-## Makeover Monday
+### Makeover Monday
   
 In this series, I take part in Tableau's Makeover Monday challenge, where people redesign visualizations to improve them and show new ways of displaying data in Tableau.
   
   [Week 42 - 2020](https://public.tableau.com/profile/christopher.kwok#!/vizhome/MakeoverMonday42/Dashboard1)  
   [Week 49 - 2020](https://public.tableau.com/profile/christopher.kwok#!/vizhome/German-AmericanRelationshipPolling/Dashboard1)   
   [Week 50 - 2020](https://public.tableau.com/profile/christopher.kwok#!/vizhome/BobRossVisualization/Dashboard1) 
-   
+
 &nbsp;  
 
 # [Student Coursework](https://github.com/christopherkwok/SQL_coursework)
