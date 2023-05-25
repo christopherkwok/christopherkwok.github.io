@@ -32,6 +32,6 @@ In this series, I take part in Tableau's Makeover Monday challenge, where people
 
 &nbsp;  
 
-# [Student Coursework](https://github.com/christopherkwok/SQL_coursework)
+# [SQL Student Coursework](https://github.com/christopherkwok/SQL_coursework)
   
 This project utlizes a common employees dataset to practice querying data within **MySQL**. I used the relational database structure in tandem with queries to gather information would commonly be used by an organization to gather data such as salaries, managers, start_dates, etc.  
