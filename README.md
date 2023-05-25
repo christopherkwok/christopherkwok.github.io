@@ -12,10 +12,6 @@ Hi, my name is Christopher Kwok and I am a data analyst currently looking for a 
     
 In this project, I scraped data from an online book catalog using the BeautifulSoup package and transformed it into a dataset ready for analysis. 
 
-# [Student Coursework](https://github.com/christopherkwok/SQL_coursework)
-  
-This project utlizes a common employees dataset to practice querying data within **MySQL**. I used the relational database structure in tandem with queries to gather information would commonly be used by an organization to gather data such as salaries, managers, start_dates, etc.  
-
 # Tableau Projects
   
 ## [Udemy Audiobook Dashboard](https://public.tableau.com/profile/christopher.kwok#!/vizhome/AudiobookSalesReviews_16105216922850/Dashboard1?publish=yes)
@@ -29,3 +25,7 @@ In this series, I take part in Tableau's Makeover Monday challenge, where people
   [Week 42 - 2020](https://public.tableau.com/profile/christopher.kwok#!/vizhome/MakeoverMonday42/Dashboard1)  
   [Week 49 - 2020](https://public.tableau.com/profile/christopher.kwok#!/vizhome/German-AmericanRelationshipPolling/Dashboard1)   
   [Week 50 - 2020](https://public.tableau.com/profile/christopher.kwok#!/vizhome/BobRossVisualization/Dashboard1) 
+
+# [Student Coursework](https://github.com/christopherkwok/SQL_coursework)
+  
+This project utlizes a common employees dataset to practice querying data within **MySQL**. I used the relational database structure in tandem with queries to gather information would commonly be used by an organization to gather data such as salaries, managers, start_dates, etc.  
