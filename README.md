@@ -16,6 +16,8 @@ In this project, I scraped data from an online book catalog using the BeautifulS
 
 &nbsp;  
 
+# [Tableau Desktop Specialist Certification](https://www.credly.com/badges/c6ffac94-c467-4290-a1f7-f177e96faddb)
+
 # Tableau Projects
   
 ### [Udemy Audiobook Dashboard](https://public.tableau.com/profile/christopher.kwok#!/vizhome/AudiobookSalesReviews_16105216922850/Dashboard1?publish=yes)
